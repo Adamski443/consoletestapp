@@ -1,5 +1,5 @@
 Hello
 test
-main branch merge issue
+feature2 merge issue
 
 ## FEATURE BRANCH ADDED
